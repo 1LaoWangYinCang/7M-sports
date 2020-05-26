@@ -1,14 +1,16 @@
-# XingZuoKaiYunWu
+# TaoYouHuiQuan
 
-XingZuoKaiYunWu introduces the personalities and horoscopes of people with twelve zodiac signs. He also introduces jewelry to help improve your horoscopes, which will make your horoscopes more and more prosperous and bring your horoscopes up and down.
+Our app is dedicated to promoting discount and money-saving shopping, so that people can buy the best quality goods at the best price in their daily life. We offer a variety of products with coupons to make it cheaper and cheaper. For the same goods, we can get coupons on our app for more discounts and more benefits.
 
-Our app is dedicated to promoting constellation jewelry, so that people can purchase the constellation jewelry they need in their daily life with high efficiency and high quality. At the same time, our app will also introduce the horoscopes of each constellation in the future in detail, and recommend the horoscopes accessories for you.
+- our app showcases a complete range of daily necessities and commodities, including flowers and gifts, fine jewelry, handsome clothes, personalized decorations, home murals, children's toys, digital products and other commodities. These complete categories of daily necessities and commodities can meet the user's selection and procurement.
 
-Our app shows a variety of constellation jewelry, including constellation bracelet, constellation necklace, noctilucent pendant, constellation bracelet and other constellation jewelry. These constellation jewelry can meet the user's selection and procurement.
+- our app classifies these goods in a very detailed way, which helps users quickly find the goods they want to buy.
 
-Our app also has the function of goods collection. You can add your favorite constellation jewelry to the collection list, which is convenient for you to place an order next time. Our app makes a detailed and careful introduction to each commodity, so that you can have a full understanding of these commodities and find the constellation ornaments that can help you to open your constellation.
+- our app introduces each product in detail, so that you can have a full understanding of these products, find the products you like, and make it convenient for you to buy and order. When you order, you can get coupons to save money.
+
+- our app also has the function of goods collection, you can collect your favorite goods to the list of favorites, which is convenient for you to browse and order.
+
+Amoy coupons let you buy more discount more money!
 
 
-Come to XingZuoKaiYunWu to boost your horoscope!
-
-If you have any questions, please contact us as follows : klq19950101@icloud.com
+If you have any questions, please contact us as follows : di521logi@sina.com
