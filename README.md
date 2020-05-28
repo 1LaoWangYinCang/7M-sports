@@ -1,16 +1,15 @@
-# TaoYouHuiQuan
+# XingFuJiaCaiPu
 
-Our app is dedicated to promoting discount and money-saving shopping, so that people can buy the best quality goods at the best price in their daily life. We offer a variety of products with coupons to make it cheaper and cheaper. For the same goods, we can get coupons on our app for more discounts and more benefits.
+XingFuJiaCaiPu is an app for teaching people how to cook and share cooking experience. The recipes we provide are all nutritious and healthy food, which you can learn with confidence. Our app is dedicated to promoting cooking skills so that people can make their own delicious dishes in daily life.
 
-- our app showcases a complete range of daily necessities and commodities, including flowers and gifts, fine jewelry, handsome clothes, personalized decorations, home murals, children's toys, digital products and other commodities. These complete categories of daily necessities and commodities can meet the user's selection and procurement.
+Our app showcases a full range of recipes, including home-cooked dishes, delicious desserts, staple food pastry and specialty snacks. You can learn all kinds of delicious food on our app. It is a happy and wonderful thing to cook a delicious meal for your family.
 
-- our app classifies these goods in a very detailed way, which helps users quickly find the goods they want to buy.
+Our app categorizes these recipes in great detail so that users can quickly find what they want to cook.
 
-- our app introduces each product in detail, so that you can have a full understanding of these products, find the products you like, and make it convenient for you to buy and order. When you order, you can get coupons to save money.
+Our app shows a very detailed cooking process, with pictures and text, so that you can easily master cooking skills.
 
-- our app also has the function of goods collection, you can collect your favorite goods to the list of favorites, which is convenient for you to browse and order.
+Our app also has the function of recipe collection. You can add your favorite cooking tutorials to the list of favorites, which is convenient for you to check and learn next time you cook.
 
-Amoy coupons let you buy more discount more money!
+Learn delicious dishes have a happy home!
 
-
-If you have any questions, please contact us as follows : di521logi@sina.com
+If you have any questions, please contact us as follows : khx19940105@icloud.com
