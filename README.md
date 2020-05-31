@@ -1,15 +1,16 @@
-# XingFuJiaCaiPu
+# Tao coupons
 
-XingFuJiaCaiPu is an app for teaching people how to cook and share cooking experience. The recipes we provide are all nutritious and healthy food, which you can learn with confidence. Our app is dedicated to promoting cooking skills so that people can make their own delicious dishes in daily life.
+Tao coupons is a money-saving shopping mall, we launch a variety of products with coupons, coupons more affordable to save money. It's cheaper to get coupons for the same items on our app.
 
-Our app showcases a full range of recipes, including home-cooked dishes, delicious desserts, staple food pastry and specialty snacks. You can learn all kinds of delicious food on our app. It is a happy and wonderful thing to cook a delicious meal for your family.
+Our app is convenient for people to buy the best quality goods at the most favorable price in their daily life.
 
-Our app categorizes these recipes in great detail so that users can quickly find what they want to cook.
+Our app showcases a full range of goods, including delicious cakes, tea, bedding, fitness equipment, household utensils and other goods and daily necessities. These complete categories of goods can meet the user's selection and procurement.
 
-Our app shows a very detailed cooking process, with pictures and text, so that you can easily master cooking skills.
+Our app gives a detailed introduction to each product, so that you can have a full understanding of these products, find the products you like, and make it convenient for you to buy and place an order. When you place an order, you can get coupons to make shopping more economical
 
-Our app also has the function of recipe collection. You can add your favorite cooking tutorials to the list of favorites, which is convenient for you to check and learn next time you cook.
+Our app makes a very detailed classification of these goods, which helps users quickly find the goods they want to buy.
 
-Learn delicious dishes have a happy home!
+Our app also has the function of goods collection, you can collect the goods you like to the list of favorites, convenient for you to browse and order.
 
-If you have any questions, please contact us as follows : khx19940105@icloud.com
+Finding coupons makes shopping cheaper and more affordable.
+If you have any questions, please contact us as follows :di521logi@sina.com
