@@ -1,16 +1,12 @@
-# Tao coupons
+# ZhouYiQiMIng
+ZhouYiQiMing is an app based on people's birthdates and character divination. A person's name will stay with him or her for the rest of his or her life. A good name will make a deep impression on you, which will be helpful for future communication and career. Our app USES the birth date of the child through the analysis of the five elements of the week, give the child an auspicious and happy name, let the baby grow up healthily!
 
-Tao coupons is a money-saving shopping mall, we launch a variety of products with coupons, coupons more affordable to save money. It's cheaper to get coupons for the same items on our app.
+Our app provides you with all kinds of auspicious names through the baby information you fill in. Each name has a detailed explanation, so that you can clearly know the good or bad situation of the name. At the same time, our app also has the function of collection. You can collect the names you like for easy viewing and filtering.
 
-Our app is convenient for people to buy the best quality goods at the most favorable price in their daily life.
+Our app can also contact naming experts to ask you questions about naming, and we will send someone to answer them for you.
 
-Our app showcases a full range of goods, including delicious cakes, tea, bedding, fitness equipment, household utensils and other goods and daily necessities. These complete categories of goods can meet the user's selection and procurement.
+Our recommended name high-end atmosphere, good luck, you will be able to pick a most suitable name for your child.
 
-Our app gives a detailed introduction to each product, so that you can have a full understanding of these products, find the products you like, and make it convenient for you to buy and place an order. When you place an order, you can get coupons to make shopping more economical
+ZhouYiQiMing gave the baby a name that symbolizes happiness.
 
-Our app makes a very detailed classification of these goods, which helps users quickly find the goods they want to buy.
-
-Our app also has the function of goods collection, you can collect the goods you like to the list of favorites, convenient for you to browse and order.
-
-Finding coupons makes shopping cheaper and more affordable.
-If you have any questions, please contact us as follows :di521logi@sina.com
+If you have any questions, please contact us as follows :unq48751cq@sina.com
