@@ -1,12 +1,14 @@
-# ZhouYiQiMIng
-ZhouYiQiMing is an app based on people's birthdates and character divination. A person's name will stay with him or her for the rest of his or her life. A good name will make a deep impression on you, which will be helpful for future communication and career. Our app USES the birth date of the child through the analysis of the five elements of the week, give the child an auspicious and happy name, let the baby grow up healthily!
+# XingZuoYunShi
+Everyone of the twelve zodiac signs has his or her own unique personality and fortune. Our app allows people to easily check their horoscope and zodiac sign interpretation in daily life. At the same time, our app can also match you and your sweetheart, so that you can understand the love between them.
 
-Our app provides you with all kinds of auspicious names through the baby information you fill in. Each name has a detailed explanation, so that you can clearly know the good or bad situation of the name. At the same time, our app also has the function of collection. You can collect the names you like for easy viewing and filtering.
+Our app can check the horoscope of each zodiac sign for the week, and also check the personality of each zodiac sign and the detailed interpretation of each zodiac sign, which is convenient for horoscope lovers.
 
-Our app can also contact naming experts to ask you questions about naming, and we will send someone to answer them for you.
+Our app also launched a lot of interesting stories about the constellation, let you know about the constellation of fun, at the same time you can also leave a message below our article and others exchange constellation experience, can also be thumb up our article, at the same time meet particularly like constellation articles, you can collect, convenient next time to view and browse.
 
-Our recommended name high-end atmosphere, good luck, you will be able to pick a most suitable name for your child.
+Our app can also conduct professional disk matching analysis based on your own data and that of your sweetheart, so as to provide good constellation Suggestions for your love, so that you can understand your love in the constellation level and maintain your relationship.
 
-ZhouYiQiMing gave the baby a name that symbolizes happiness.
+We also have the constellation question function, submit your questions about the constellation to us, we will contact you through the contact information you left, to answer your questions.
 
-If you have any questions, please contact us as follows :unq48751cq@sina.com
+Your horoscope will provide you with professional horoscopes, which will help you live a happy life.
+
+If you have any questions, please contact us as follows :pqkw80335ukh@sina.com
