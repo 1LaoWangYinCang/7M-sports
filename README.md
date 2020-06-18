@@ -1,15 +1,15 @@
-# Horoscope Fortune
+# ChaoShengCoupons
 
-Horoscope Fortune is an app that displays the Horoscope power of the 12 constellations and matches the 12 constellations.
+Our app is dedicated to promoting super budget shopping malls, so that people can buy the best products at the lowest price in their daily life. All the products on display in our app can be purchased with coupons, which is very economical and affordable. You can save a lot of money by ordering the same goods with coupons on our app, and the quality of the goods is also very good.
 
-- Our app allows users to view their horoscope and share their horoscope of the week.
+- Our app showcases a variety of daily necessities and commodities, including tableware, cosmetics, pillows, throw pillows, tea, cakes, fitness supplies and other commodities. These categories of complete goods can meet the user's selection and procurement.
 
-- Our app can conduct professional astrological chart matching analysis based on two individuals' names and birth dates, and provide good advice for your love, so that you can understand your love at the astrological level and maintain your relationship.
+- Our app has classified these goods in great detail, which helps users to quickly find the goods they want to buy.
 
-- Our app can collect our own constellation matching report for the convenience of next time viewing and browsing, and we can also share our constellation matching report.
+- Our app introduces each product in detail, enabling you to fully understand these products, find the commodities you like, and facilitate you to purchase and place orders. When placing orders, you can receive coupons to save money.
 
-- Our app can also conduct astrological questions. You can ask questions about your astrological signs. We will arrange astrological experts to contact you and help you answer your questions.
+- Our app also has the commodity collection function. You can collect your favorite commodities in the collection list, which is convenient for you to browse and place orders.
 
-Horoscope Fortune professional astrological chart matching tool, you deserve it!
+ChaoShengCoupons to make shopping super cheap!
 
 If you have any questions, please contact us as follows :pqkw80335ukh@sina.com
