@@ -1,15 +1,13 @@
-# ChaoShengCoupons
+# QiankunBaGua
 
-Our app is dedicated to promoting super budget shopping malls, so that people can buy the best products at the lowest price in their daily life. All the products on display in our app can be purchased with coupons, which is very economical and affordable. You can save a lot of money by ordering the same goods with coupons on our app, and the quality of the goods is also very good.
+Qiankun BaGua is an app that displays the fortunes of the zodiac year and generates fortune-telling with eight characters. Our app lets you know the future, avoid the bad and avoid the bad, and live a safe and healthy life.
 
-- Our app showcases a variety of daily necessities and commodities, including tableware, cosmetics, pillows, throw pillows, tea, cakes, fitness supplies and other commodities. These categories of complete goods can meet the user's selection and procurement.
+You can find the zodiac signs of this year on our app, and you can share the zodiac signs you are interested in.
 
-- Our app has classified these goods in great detail, which helps users to quickly find the goods they want to buy.
+Our app can also provide you through the name, gender, birth eight character numerology prediction, we use the universe gossip zhouyi fortune-telling method, to work out your numerology and the future life of the good or bad luck, at the same time will give you some advice to make you try your best to avoid the bad, good luck.
 
-- Our app introduces each product in detail, enabling you to fully understand these products, find the commodities you like, and facilitate you to purchase and place orders. When placing orders, you can receive coupons to save money.
+You can share and bookmark your own numerals that interest you.
 
-- Our app also has the commodity collection function. You can collect your favorite commodities in the collection list, which is convenient for you to browse and place orders.
-
-ChaoShengCoupons to make shopping super cheap!
+Qiankun BaGua about heaven and earth will help you know your zodiac signs, know your destiny and lead a better life.
 
 If you have any questions, please contact us as follows :pqkw80335ukh@sina.com
