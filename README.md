@@ -1,13 +1,17 @@
 # 7M sports
 
-7M sports is dedicated to promoting the popular, comfortable and professional sports court in Chengdu, so that people can book the sports place they like efficiently and with high quality in their daily life.
+7M sports is a booking platform for the sports arena. Our sports arena environment is clean and tidy, professional sports facilities. You can book the most satisfying sports arena in our app.
 
-Our app is a booking platform for stadiums and gymnasiums. Our sports venues are clean and comfortable with professional equipment and a strong sports atmosphere. We have displayed various sports courts, including football field, basketball hall, table tennis hall, tennis court and other sports courts. These full range of sports courses can meet the user's selection and reservation.
+- Our APP is dedicated to promoting professional and comfortable sports arenas, so that people can efficiently and high-quality book to their favorite sports arenas in daily life.
 
-Our app categorizes these stadiums in great detail to help users quickly find the stadiums they want to book.
+- Our app displays various sports arenas, including badminton arena, table tennis arena, basketball arena, tennis arena, comprehensive stadium and other sports arenas. These full range of sports arenas can meet the user's selection and reservation.
 
-Our app also has the function of collecting sports venues. You can add your favorite sports courses to the favorites list for your next booking.
+- Our app categorizes these stadiums in great detail, helping users quickly find the stadiums they want to book.
 
-You can book the most professional sports courts and stadiums in our app.
+- Our app also has the collection function of the sports arena. You can add your favorite sports arena to the list for your next browsing and ordering.
 
-If you have any questions, please contact us as follows :aq13437@21cn.com
+- Our app will introduce each stadium in detail, so that you can fully understand these stadiums, find the stadiums you like, so that you can make an appointment and place an order.
+
+7M sports make sports everywhere, and life is wonderful every day!
+
+If you have any questions, please contact us as follows :pqkw80335ukh@sina.com
