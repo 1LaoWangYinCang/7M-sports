@@ -1,11 +1,13 @@
-# JiuDingTiYuZhuanJia
+# TiYuTouTiaoDaKa
 
-JiuDingTiYuZhuanJia is an app to buy outdoor extreme sports equipment. We show professional and high-quality outdoor extreme sports equipment, so that people can efficiently buy satisfactory and high-quality outdoor extreme sports equipment in their daily life. At the same time, you can also learn sports skills and game knowledge on our app, so that you can know more about extreme sports and become an expert in sports.
+TiYuTouTiaoDaKa is a record of daily exercise, buy professional sports fitness APP, it aims to promote popular sports fitness equipment, so that people can buy high quality and efficiency in daily life to professional sports fitness equipment, as well as records of exercise every day and every day the fitness results, committed to continue to adhere to never give up.
 
-Our app has made a very detailed classification for these outdoor extreme sports equipment, including outdoor running equipment, cycling equipment, roller skating equipment, skateboard supplies, skiing equipment and other sports products. These complete categories of extreme sports supplies can meet users' selection and purchase.
+Our app shows a full range of fitness equipment, including fitness shaping equipment, yoga supplies, boxing equipment, swimming supplies and other fitness shaping equipment. These categories of complete fitness sports equipment can meet the user's selection and procurement.
 
-Our app also has the function of product collection, which allows you to collect your favorite sports products into the collection list for your next browsing and placing orders. At the same time, you can share high-quality outdoor sports products with others.
+Our app has a very detailed classification of these fitness shaping equipment, which helps users to quickly find the sports equipment they want to buy.
 
-Learn sports skills with the best sports equipment and become an expert in sports!
+Our app also has the function of recording daily fitness results and amount of exercise. You can record your daily fitness gains and progress, as well as the amount of exercise you take each day, so that you can continue to adhere to it and have a more perfect figure.
 
-If you have any questions, please contact us as follows :xdggltzuas@sina.com
+Stick to the fitness program so that you have a perfect figure and a healthy life.
+
+If you have any questions, please contact us as follows :wy19941005@icloud.com
